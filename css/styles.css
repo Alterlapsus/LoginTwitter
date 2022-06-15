@@ -4,11 +4,16 @@
     box-sizing: border-box;
 }
 
-.conteiner-flex{
+h1, h2, h3{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
 
+.conteiner-flex{
+    display: flex;
+    gap: 2rem;
 }
 .conteiner-left{
-    position: absolute;
+    /* position: absolute; */
     background-image: url(/fondo.png);
     width: 41%;
     max-width: 41%;
@@ -19,9 +24,29 @@
 }
 
 .logo{
-    position: relative;
+    /* position: relative; */
     width: 70%;
     margin: 0 auto;
-    margin-top: 31vh;
+    margin-top: 32.5vh;
+}
 
+/* contenedor derecho */
+.conteiner-right{
+    border: 1px solid red;
+}
+.logosmall{
+    margin-top: 2rem;
+}
+.contenido{
+    margin-top: 3rem;
+    line-height: 1.5;
+}
+.contenido h1{
+    color: #0F1419;
+    font-size: 64px;
+}
+.contenido h2{
+    color: #0F1419;
+    margin-top: 4rem;
+    font-size: 31px;
 }

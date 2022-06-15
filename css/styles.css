@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.conteiner-flex{
+
+}
+.conteiner-left{
+    position: absolute;
+    background-image: url(/fondo.png);
+    width: 41%;
+    max-width: 41%;
+    height: 130vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.logo{
+    position: relative;
+    width: 70%;
+    margin: 0 auto;
+    margin-top: 31vh;
+}

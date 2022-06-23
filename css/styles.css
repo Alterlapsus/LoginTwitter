@@ -10,7 +10,7 @@ h1, h2, h3{
 
 .conteiner-flex{
     display: flex;
-    gap: 2rem;
+    gap: 2.5rem;
 }
 .conteiner-left{
     /* position: absolute; */
@@ -31,15 +31,15 @@ h1, h2, h3{
 }
 
 /* contenedor derecho */
-.conteiner-right{
+/* .conteiner-right{
     border: 1px solid red;
-}
+} */
 .logosmall{
     margin-top: 2rem;
 }
 .contenido{
     margin-top: 3rem;
-    line-height: 1.5;
+    line-height: 1.2;
 }
 .contenido h1{
     color: #0F1419;
@@ -49,4 +49,110 @@ h1, h2, h3{
     color: #0F1419;
     margin-top: 4rem;
     font-size: 31px;
+}
+
+/* botones */
+.btn1{
+    margin-top: 1.8rem;
+    width: 19rem;
+    background-color: #fff;
+    border: 1px solid #c5cbd4;
+    padding: .7rem;
+    border-radius: 2rem;
+    color: #4B4F52;
+    font-size: 13px;
+    font-weight: 700;
+    font-family: sans-serif;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: .5rem;
+}
+
+.btn1:hover{
+    background-color: #F8FAFF;
+    border: 1px solid #CAE4F5;
+}
+
+.btn2{
+    margin-top: .6rem;
+    width: 19rem;
+    background-color: #fff;
+    border: 1px solid #c5cbd4;
+    padding: .7rem;
+    border-radius: 2rem;
+    color: #0F1419;
+    font-size: 13px;
+    font-weight: 700;
+    font-family: sans-serif;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: .5rem;
+}
+
+.btn2:hover{
+    background-color: #E6E6E6;
+}
+
+/* barras */
+.contenedor-barra{
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+.barra1{
+    width: 8.2rem;
+    margin-top: 1rem;
+    border-bottom: 1px solid #EFF3F4;
+    margin-bottom: .95rem;
+}
+
+p{
+    font-size: 1.1rem;
+}
+.barra2{
+    width: 8.2rem;
+    border-bottom: 1px solid #EFF3F4;
+}
+
+.btn3{
+    margin-top: .1rem;
+    width: 19rem;
+    background-color: #1D9BF0;
+    border: 1px solid #c5cbd4;
+    padding: .8rem;
+    border-radius: 2rem;
+    color: #FFF;
+    font-size: 15px;
+    font-weight: bold;
+    font-family: sans-serif;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: .5rem;
+}
+
+.btn3:hover{
+    background-color: #1A8CD8;
+}
+
+/* terminos */
+.terminos{
+    margin-top: .3rem;
+    font-size: .6rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #4B4F52;
+    font-size: 11px;
+}
+.terminos a{
+    color: #1D9BF0;
+    text-decoration: none;
+}
+.terminos a:hover{
+    cursor: pointer;
+    text-decoration: underline;
 }

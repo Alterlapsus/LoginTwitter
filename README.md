@@ -1,6 +1,6 @@
 # LoginTwitter
 
-- Se Realizó maquetación del  login de twiiter. 
+- Se realizó maquetación del  login de twiiter. 
 
 ---
 - Video en Youtube

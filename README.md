@@ -2,4 +2,9 @@
 
 - Se Realizó maquetación del  login de twiiter. 
 
-[![twitter.png](https://i.postimg.cc/wvKtgMvS/twitter.png)](https://postimg.cc/xkRjP0LR)
+---
+- Video en Youtube
+
+[![Alt text](https://img.youtube.com/vi/QwmLPJ2xefg/0.jpg)](https://www.youtube.com/watch?v=configuroweb)
+
+---

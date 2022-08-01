@@ -8,3 +8,14 @@
 [![Alt text](https://img.youtube.com/vi/QwmLPJ2xefg/0.jpg)](https://www.youtube.com/watch?v=configuroweb)
 
 ---
+
+Tecnologías utilizadas: 
+
+- HTML 
+- CSS
+
+---
+
+Creado Por: 
+
+-Israel De León

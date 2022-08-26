@@ -1,6 +1,6 @@
 # LoginTwitter
 
-- Se realizó maquetación del  login de twiiter. 
+- Se realizó clon de login de twiiter. 
 
 
 

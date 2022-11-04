@@ -1,6 +1,6 @@
 # LoginTwitter
 
-- Se realizó clon de login de twiiter. 
+- Se realizá clon(login) de twiiter. 
 
 
 
